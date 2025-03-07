@@ -46,3 +46,8 @@ We built CognitiCare AI using:
 - **AI Advancements:** Explore advanced AI techniques, such as natural language processing, to analyze unstructured data like doctor’s notes.  
 
 CognitiCare AI isn’t just a platform—it’s a movement to transform Alzheimer’s care. By combining cutting-edge AI with compassionate design, we’re empowering doctors, caregivers, and patients to fight Alzheimer’s with smarter insights, earlier detection, and better care. **Together, we can make a difference.**
+
+---
+
+🎥 **Check out our demo project video here:**  
+[**CognitiCare AI Demo**](https://www.youtube.com/watch?v=7tRUIAyP3cU)
